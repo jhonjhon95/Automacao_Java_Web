@@ -11,7 +11,7 @@
 
 
 
-# Desafio DB: Testando API
+# Desafio DB: Testando Aplicação WEB
 
 Projeto para garantir cobertura de testes de usabilidade para a aplicação BugBank
 
