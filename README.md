@@ -11,7 +11,7 @@
 
 
 
-# Desafio DB: Testando Aplicação WEB
+# Testes WEB com JAVA
 
 Projeto para garantir cobertura de testes de usabilidade para a aplicação BugBank
 
